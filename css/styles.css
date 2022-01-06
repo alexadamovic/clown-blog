@@ -1,0 +1,27 @@
+body {
+  background-color: skyblue;
+  margin: 50px;
+}
+
+.sidebar {
+  width: 400px;
+  float: left;
+  background-color: yellow;
+  border: solid salmon 10px;
+  padding: 15px;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 10px rgb(215, 52, 236) ;
+}
+
+h1 {
+  text-shadow: 5px 5px 5px teal;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 100px;
+}
+
+h2 {
+  text-shadow: 2px 2px 2px teal;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
